@@ -3,8 +3,6 @@
 ## name:
 windy anugrah
 
-## class:
-11th grade, vocational high school - computer and network engineering (tkj)
 
 ## hobbies:
 - playing football ⚽
