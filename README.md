@@ -1,4 +1,4 @@
-**HI ALL!!👋**
+  **HI ALL!!👋**
 ![My GIF](https://media4.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif)
 
 
@@ -23,7 +23,7 @@ my name is windy
 
 ---
 
-## **GLORY GLORY MAN UNITED!** 
+   **GLORY GLORY MAN UNITED!** 
 ![My GIF](https://media1.giphy.com/media/3unQhOKcogrdDr6qRZ/giphy.gif)
 
 
