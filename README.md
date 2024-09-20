@@ -1,11 +1,8 @@
 # hi all!
-![Rainbow Cat](https://media4.giphy.com/media/BSx6mzbW1ew7K/giphy.gif)
+![My GIF](https://media4.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif)
 
-## name:
-windy anugrah
 
-## class:
-11th grade, vocational high school - computer and network engineering (tkj)
+my name is windy anugrah
 
 ## hobbies:
 - playing football ⚽
