@@ -1,16 +1,26 @@
-## Hi there 👋
+# hi all! 👋
 
-<!--
-**wndyykiboo/wndyykiboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## name:
+windy anugrah
 
-Here are some ideas to get you started:
+## class:
+11th grade, vocational high school - computer and network engineering (tkj)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## hobbies:
+- playing football ⚽
+- playing video games 🎮
+
+---
+
+### about me:
+- im a high school student majoring in computer and network engineering (tkj).
+- i enjoy watching football, playing games, and doing other activities in my free time.
+- im a big fan of manchester united (king emyu) and have supported the club since 2015.
+
+---
+
+### skills:
+- roamer mobile legend
+- skilled with yss😎🥶
+
+**GLORY GLORY MAN UNITED!!**
