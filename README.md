@@ -1,8 +1,8 @@
-# hi all!
+**HI ALL!!👋**
 ![My GIF](https://media4.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif)
 
 
-my name is windy anugrah
+my name is windy
 
 ## hobbies:
 - playing football ⚽
@@ -11,20 +11,21 @@ my name is windy anugrah
 ---
 
 ### about me:
-- i am a high school student majoring in computer and network engineering (tkj).
-- i enjoy watching football, playing games, and doing other activities in my free time.
+- high school
+- ugly bastard
 - i am a big fan of manchester united (king emyu) and have supported the club since 2015.
 
 ---
 
 ### skills:
 - roamer mobile legend
-- skilled with yss (yi sun-shin)
-- team burden 🥶
+- skilled with yss😎🥶
 
 ---
 
 ## **GLORY GLORY MAN UNITED!** 
+![My GIF](https://media1.giphy.com/media/3unQhOKcogrdDr6qRZ/giphy.gif)
+
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
