@@ -19,8 +19,8 @@ my name is windy
 ---
 
 ### skills:
-- roamer mobile legend
-- skilled with yss😎🥶
+- mlbb roamer
+- yss goat🤫😎🥶
 
 ---
 
