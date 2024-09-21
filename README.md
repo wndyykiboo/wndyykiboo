@@ -16,6 +16,8 @@ my name is windy
 - ugly asf
 - united boys since 2016🗣🗣
 
+  ![My GIF](https://media2.giphy.com/media/mxv8KNEBOSmF2opq5J/giphy.gif)
+
 ---
 
 ### skills:
