@@ -1,6 +1,6 @@
-  **HI ALL!!👋**
+  **HI 👋**
   
-![My GIF](https://media4.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif)
+![My GIF](https://media2.giphy.com/media/VUC9YdLSnKuJy/giphy.gif)
 
 my name is windy
 
