@@ -14,7 +14,7 @@ my name is windy
 ### about me:
 - high school
 - ugly asf
-- im a big fan of manchester united (king emyu) and have supported the club since 2015.
+- united boys since 2016💀
 
 ---
 
