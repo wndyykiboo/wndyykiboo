@@ -1,20 +1,20 @@
   **HI ALL!!👋**
+  
 ![My GIF](https://media4.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif)
-
 
 my name is windy
 
 ## hobbies:
-- playing football ⚽
-- playing video games 🎮
-- watching movies 🎬
+- football ⚽
+- video games 🎮
+- movies 🎬
 
 ---
 
 ### about me:
 - high school
 - ugly asf
-- united boys since 2016💀
+- united boys since 2016🗣🗣
 
 ---
 
