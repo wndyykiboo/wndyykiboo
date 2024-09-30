@@ -6,7 +6,7 @@ my name is windy
 
 ## hobbies:
 - football ⚽
-- video games 🎮
+- music 
 - movies 🎬
 
 ---
